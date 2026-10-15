@@ -32,6 +32,9 @@ This document contains a list of resources used in learning and decision making.
 ### Notes
 
 
+### Books
+* The Data Warehouse Toolkit by Ralph Kimball - [Amazon](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/ref=sr_1_1?crid=36D44Z9W74FKC&dib=eyJ2IjoiMSJ9.Z2UrxOjmDPu17XOHJRUhrOay1ylobQ-4iJ_JisYpupZlbzBRAMpcjS1VnGY0-BgZKbDADE1tOlhA7vzhMYqTVJkRGXTecFldgkwV5yv_0BPiIE7H75bUDFJJgKukX6fQvDZaoTE2ftHFbknLNM5WG06aO3DZMA-lxHDkXU7yHWrUSjMj7-PhyIbfX1ohSnH3pk1_foYO1tlkV-A52Qe2gpyCOJZhnL1Ve3jAiK7ySyU.Ifcc5xcDqvxn6cMbDOjlGNiEZPbJj26Jt4t2Kt9P7Ko&dib_tag=se&keywords=the+data+warehouse+toolkit&qid=1792045679&s=books&sprefix=teh+data+warehouse+tookit%2Cstripbooks%2C96&sr=1-1)
+
 
 ## PowerBI
 
