@@ -37,7 +37,7 @@ This document contains a list of resources used in learning and decision making.
 
 ### Microsoft Learn
 
-#### pl-300 Resources 
+#### PL-300 Resources 
 * [PL-300 Microsoft Certified: Power BI Data Analyst Associates](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification)
 
 ### DAX
