@@ -79,7 +79,7 @@ This document contains a list of resources used in learning and decision making.
 ### Goodreads
 
 
-### Booklet
+### Bookly
 
 
 ### Supabase
