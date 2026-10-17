@@ -1,7 +1,7 @@
 # Important Information
 
 ### Supabase
-Username: endersoft@hotmail.com
+Username: endersoft@hotmail.com/br
 Password: Stored in LastPass
 Multi-factor enabled
 
