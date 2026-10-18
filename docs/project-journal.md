@@ -1,3 +1,3 @@
-### Project Journal
+## Project Journal
 
-#### <kbd>2026-10-17</kbd>
+### <kbd>2026-10-17</kbd>
